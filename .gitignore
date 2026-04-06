@@ -13,6 +13,9 @@ unsloth_training_checkpoints/
 *.gguf
 *.safetensors
 
+checkpoint/
+datasets/
+
 # C extensions
 *.so
 
